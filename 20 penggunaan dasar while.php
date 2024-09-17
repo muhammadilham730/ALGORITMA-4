@@ -7,4 +7,4 @@ do {
     $hitung++;
 } while ($hitung <= 5);
 
-echo "<p><strong><i>By Muhammad ilham</strong>";
+echo "<p><strong><i>By Muhammad ilhamm</strong>";
