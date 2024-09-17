@@ -6,6 +6,6 @@ while ($i < count($fruits)) {
     echo $fruits[$i] . "<br>";
     $i++;
 }
-echo "<p><strong><i>By Meylisa eka putry</strong>";
+echo "<p><strong><i>By Muhammad ilham</strong>";
 
 ?>
