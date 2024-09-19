@@ -20,5 +20,4 @@ echo "<pre>";
 print_r($hewan);
 echo "</pre>";
 
-
-echo "<p><strong> By Amellya</strong>";
+echo "<p><i><strong> By muhammad ilham</strong>";
