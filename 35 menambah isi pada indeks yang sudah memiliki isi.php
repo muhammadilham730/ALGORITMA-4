@@ -4,11 +4,11 @@
 $user = [
     "Lisa",
     "muhar",
-    "amellya"
+    "ilham"
 ];
 
 // mengisi array pada indek ke-1 ("muhar")
-$user[1] = "amellya";
+$user[1] = "ilham";
 
 // mencetak isi array
 echo "<pre>";
